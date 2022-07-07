@@ -956,3 +956,6 @@ section {
 .social-ul li a:hover:after {
     background: #fff;
 }
+.in_newsletter{
+    border-bottom: 0px !important;
+}
